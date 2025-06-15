@@ -18,10 +18,12 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](images/Desktop.png) <!-- Add screenshots when available -->
+![Desktop View](images/Desktop.png) 
 
 ### Mobile View
-![Mobile View](images/Mobile.jpg) <!-- Add screenshots when available -->
+<div align="center">
+  <img src="images/Mobile.jpg" alt="Portfolio Mobile View" width="500" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+</div>
 
 ## 🛠️ Technologies Used
 
