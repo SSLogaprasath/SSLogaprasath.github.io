@@ -21,7 +21,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 ![Desktop View](images/Desktop.png) <!-- Add screenshots when available -->
 
 ### Mobile View
-![Mobile View](images/Mobile.png) <!-- Add screenshots when available -->
+![Mobile View](images/Mobile.jpg) <!-- Add screenshots when available -->
 
 ## 🛠️ Technologies Used
 
